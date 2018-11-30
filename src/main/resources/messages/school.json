@@ -1,0 +1,117 @@
+{
+	"id": 1,
+	"url": "economics_security",
+	"duration": 5,
+	"groups": [
+		{
+			"id": 1,
+			"courseNum": 4,
+			"groupTranslations": [
+				{
+					"locale": {
+						"id": 1,
+						"name": "english",
+						"code": "en_US"
+					},
+					"title": "s1401pd"
+				},
+				{
+					"locale": {
+						"id": 3,
+						"name": "russian",
+						"code": "ru_RU"
+					},
+					"title": "с1401пд"
+				}
+			],
+			"schedules": [
+				{
+					"id": 1,
+					"subject": {
+						"id": 1,
+						"subjectTranslations": [
+							{
+								"locale": {
+									"id": 3,
+									"name": "russian",
+									"code": "ru_RU"
+								},
+								"title": "уголовный процесс"
+							},
+							{
+								"locale": {
+									"id": 1,
+									"name": "english",
+									"code": "en_US"
+								},
+								"title": "criminal process"
+							}
+						]
+					},
+					"dayNum": 1,
+					"week": 1,
+					"subjectNum": 5,
+					"teacher": {
+						"id": 1,
+						"mail": "kremer.fn@dvfu.ru",
+						"teacherTranslations": [
+							{
+								"locale": {
+									"id": 3,
+									"name": "russian",
+									"code": "ru_RU"
+								},
+								"lastname": "Кремер",
+								"firstname": "Федор",
+								"middlename": "Николаевич"
+							}
+						]
+					},
+					"lessonType": 1,
+					"classroom": "G237"
+				}
+			]
+		},
+		{
+			"id": 2,
+			"courseNum": 4,
+			"groupTranslations": [
+				{
+					"locale": {
+						"id": 1,
+						"name": "english",
+						"code": "en_US"
+					},
+					"title": "s1401pe"
+				},
+				{
+					"locale": {
+						"id": 3,
+						"name": "russian",
+						"code": "ru_RU"
+					},
+					"title": "с1401пе"
+				}
+			],
+			"schedules": []
+		}
+	],
+	"majorTranslations": [
+		{
+			"locale": {
+				"id": 3,
+				"name": "russian",
+				"code": "ru_RU"
+			},
+			"title": "экономическая безопасность"
+		},
+		{
+			"locale": {
+				"id": 1,
+				"name": "english",
+				"code": "en_US"
+			},
+			"title": "economics security"
+		}
+	]
+}
